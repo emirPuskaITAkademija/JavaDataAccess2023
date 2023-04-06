@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1990-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Mirsad</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>1213324</string>
+    </void>
+    <void property="surname">
+     <string>Škandro</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1988-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Kenan</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>1111111</string>
+    </void>
+    <void property="surname">
+     <string>Bukva</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1999-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Anja</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>222222</string>
+    </void>
+    <void property="surname">
+     <string>Tešanović</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>2003-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Slađana</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>3333333</string>
+    </void>
+    <void property="surname">
+     <string>Jokić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1990-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Rahima</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>44444444</string>
+    </void>
+    <void property="surname">
+     <string>Granulo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>2004-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Amela</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>5555555</string>
+    </void>
+    <void property="surname">
+     <string>Nožinović</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="org.example.model.Person">
+    <void property="birthday">
+     <object class="java.time.LocalDate" method="parse">
+      <string>1995-01-01</string>
+     </object>
+    </void>
+    <void property="name">
+     <string>Eldar</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>66666666</string>
+    </void>
+    <void property="surname">
+     <string>Pediša</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
